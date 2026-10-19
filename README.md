@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Meu nome é Matheus e atualmente estou cursando o segundo ano do curso técnico em Desenvolvimento de Sistemas no SENAI.</h1>
+<h4 data-importer="text" align="left">Meu nome é Matheus e atualmente estou cursando o segundo ano do curso técnico em Desenvolvimento de Sistemas no SENAI.</h4>
 
 ###
 
@@ -26,8 +26,16 @@
 
 ###
 
-<br clear="both">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus/Matheus/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus/Matheus/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Matheus/Matheus/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Matheus/Matheus/snake-output/snake.svg" alt="Snake animation" />
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
